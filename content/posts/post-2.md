@@ -1,10 +1,9 @@
 ---
 title: "Управление светодиодом на Micropython"
 date: 2025-06-01T12:13:30+05:30
-tags: [Micropython] [Esp32] [PicoPi] 
+tags: [Micropython, ESP32, PicoPi]
 ---
-
-Управление светодиодом
+Работа со светодиодом в Micropython
 
 We spend our days filling in every available space, cramming in more tasks, responding to messages, checking social media and online sites, watching videos.
 
