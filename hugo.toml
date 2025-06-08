@@ -2,7 +2,7 @@ baseURL = "https://JNDRobot.github.io"
 languageCode = "ru-ru"
 title = "JNDRobot personal blog"
 theme="archie"
-copyright = "Athul"
+copyright = "JNDRobot"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
@@ -15,11 +15,6 @@ pygmentscodefencesguesssyntax = true
 name = "GitHub"
 icon = "github"
 url = "https://github.com/JNDRobot"
-
-[[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
 
 [[menu.main]]
 name = "Home"
